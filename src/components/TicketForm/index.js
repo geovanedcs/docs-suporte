@@ -21,7 +21,7 @@ export default function TicketForm() {
 
     try {
       // ⚠️ IMPORTANTE: Você vai substituir isso depois pelo seu Webhook real do n8n
-      const webhookUrl = 'SUA_URL_DO_N8N_AQUI'; 
+      const webhookUrl = 'https://n8n.omnidevs.com.br/webhook/criar-ticket'; 
       
       // Simulando envio para teste (remova este setTimeout quando tiver o n8n)
       // await new Promise(r => setTimeout(r, 1000)); 
