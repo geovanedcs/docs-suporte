@@ -1,0 +1,8 @@
+{
+  "label": "🎫 Tickets de Suporte",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Lista de tickets gerados automaticamente pelo portal de suporte."
+  }
+}

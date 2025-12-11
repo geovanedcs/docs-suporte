@@ -88,8 +88,7 @@ export default function TicketForm() {
           <input 
             type="url" 
             name="scribeLink" 
-            required 
-            placeholder="Cole o link público do Scribe aqui..."
+            placeholder="Cole o link do Scribe (Deixe vazio se não houver)"
             value={formData.scribeLink} 
             onChange={handleChange} 
             style={inputStyle}
